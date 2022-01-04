@@ -19,19 +19,27 @@ class Layout extends StatelessWidget {
             color: 0xfff1b4af,
           ),
           Column(
-            // mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+            mainAxisAlignment: MainAxisAlignment.center,
             children: [
-              const CustomColum(
-                width: 110,
-                height: 110,
-                color: 0xff99dde6,
-                margin: 230,
-              ),
-              const CustomColum(
-                width: 110,
-                height: 110,
-                color: 0xffc3dab0,
-                margin: 150,
+              Container(
+                width: 100,
+                height: 670,
+                child: Column(
+                  children: [
+                    CustomColum(
+                      width: 110,
+                      height: 110,
+                      color: 0xff99dde6,
+                      margin: 150,
+                    ),
+                    CustomColum(
+                      width: 110,
+                      height: 110,
+                      color: 0xffc3dab0,
+                      margin: 150,
+                    ),
+                  ],
+                ),
               ),
             ],
           ),
