@@ -4,7 +4,7 @@ Atividade com o objetivo de replicar o layout passado no jamboard em aula assíc
 
 ## Executar
 ```
-git clone https://github.com/josevictorpy/layout.git
+git clone https://github.com/josevictorp81/layout.git
 
 cd layout
 
