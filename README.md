@@ -1,16 +1,18 @@
 # layout
 
-A new Flutter project.
+Atividade com o objetivo de replicar o layout passado no jamboard em aula assícrona, utilzando `containers`, `colunas` e `linhas`.
 
-## Getting Started
+## Executar
+```
+git clone https://github.com/josevictorpy/layout.git
 
-This project is a starting point for a Flutter application.
+cd layout
 
-A few resources to get you started if this is your first Flutter project:
+flutter pub get
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+flutter run
+```
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshot
+
+<img src="images/layout.jpeg">
