@@ -15,7 +15,7 @@ class Layout extends StatelessWidget {
         children: [
           const CustomColum(
             width: 100,
-            height: 670,
+            height: 700,
             color: 0xfff1b4af,
           ),
           Column(
@@ -36,7 +36,7 @@ class Layout extends StatelessWidget {
                       width: 110,
                       height: 110,
                       color: 0xffc3dab0,
-                      margin: 150,
+                      margin: 160,
                     ),
                   ],
                 ),
@@ -44,8 +44,8 @@ class Layout extends StatelessWidget {
             ],
           ),
           const CustomColum(
-            width: 109,
-            height: 670,
+            width: 100,
+            height: 700,
             color: 0xfff1b4af,
           ),
         ],
