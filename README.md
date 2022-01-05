@@ -15,4 +15,4 @@ flutter run
 
 ## Screenshot
 
-<img src="images/layout.jpeg" width="300" height="550">
+<img src="images/layout.jpeg" width="250" height="500">

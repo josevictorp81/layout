@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 class CustomColum extends StatelessWidget {
   const CustomColum(
       {Key? key,
-      this.margin = 30,
+      this.margin = 0,
       required this.width,
       required this.height,
       required this.color})
